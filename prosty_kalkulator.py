@@ -11,7 +11,7 @@ def dzielenie(a, b):
     if b != 0:
         return a / b
     else:
-        return "Nie dzielimy przez zero!!."
+        return "Błąd: Nie dzielimy przez zero!!."
 
 
 while True:
